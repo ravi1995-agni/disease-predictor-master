@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3858a70-af27-410f-803b-6ddd20a07231" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diseasepredictor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diseasepredictor/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diseasepredictor/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diseasepredictor/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diseasepredictor/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Breast_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Diabetes_XTrain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Diabetes_YTrain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Heart_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/breast.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/diabetes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/heart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wtB5fU7jyuL0jjOmK7lCwMlNhW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3858a70-af27-410f-803b-6ddd20a07231" name="Default Changelist" comment="" />
+      <created>1629267824985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629267824985</updated>
+    </task>
+    <servers />
+  </component>
+</project>

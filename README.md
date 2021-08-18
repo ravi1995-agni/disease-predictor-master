@@ -1,4 +1,4 @@
-# Disease Predictor
+# Disease Predictor Master
 
 A web app for heart disease prediction, diabetes prediction and breast cancer prediciton using Machine Learning based on the Kaggle Datasets. 
 
@@ -40,10 +40,6 @@ python manage.py runserver
 
 * [Django](https://www.djangoproject.com/) - The web framework used
 * [PIP](https://pip.pypa.io/en/stable//) - Dependency Management
-
-## Contributing
-
-Please fork this project and send us a pull request.
 
 ## Authors
 
